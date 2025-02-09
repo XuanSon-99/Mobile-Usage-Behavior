@@ -1,4 +1,4 @@
-# Portfolio 4: User Behavior Classification and Prediction on Mobile Devices
+# Portfolio: User Behavior Classification and Prediction on Mobile Devices
 
 ## Purpose of the Portfolio
 
